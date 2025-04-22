@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'nunito';
+  src: url('./assets/fonts/Nunito-ExtraLight.ttf');
+}
+
+@font-face {
+  font-family: 'nunito-r';
+  src: url('./assets/fonts/NotoSans-Regular.ttf');
+}
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'nunito';
+}
